@@ -80,7 +80,7 @@ print(5 * int(text))                                   # Hier wird der Text "9" 
 ```
 
 ## Aufgabe
-Ändere das Python Skript in der Datei variablesAndDatatypes. Lege 4 Variablen mit 4 verschiedenen Datentyen (string, bool, integer, float) an:
+Ändere das Python Skript in der Datei variablesAndDatatypes.py Lege 4 Variablen mit 4 verschiedenen Datentyen (string, bool, integer, float) an:
 - Variable "ganzzahl" mit Wert 42
 - Variable "kommazahl" mit Wert 3.14
 - Variable "istPythonDoof" mit Wert False
